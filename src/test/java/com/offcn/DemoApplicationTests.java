@@ -9,6 +9,8 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("测试");
+       System.out.println("dev2");
+
     }
 
 }
