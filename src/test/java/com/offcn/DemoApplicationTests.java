@@ -16,6 +16,8 @@ class DemoApplicationTests {
         System.out.println("dev2第三次次推送，冲突解决");
         System.out.println("dev2第四次次推送，冲突解决");
         System.out.println("dev2第五次推送");
+        System.out.println("dev2第四次次推送，冲突解决");
+        System.out.println("dev2第六次次推送，冲突解决");
     }
 
 }
