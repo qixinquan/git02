@@ -10,6 +10,8 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("测试");
         System.out.println("分支操作");
+        System.out.println("dev");
+        
     }
 
 }
